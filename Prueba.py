@@ -3,6 +3,8 @@ print("Adiós")
 print("Estamos en clase")
 
 if(True):
-    print("HOLA")
+    print("El valor es verdadero")
 else:
     print("adios")
+
+print("Vamonos")
